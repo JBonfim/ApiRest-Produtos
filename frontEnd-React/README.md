@@ -1,3 +1,8 @@
-# React Series
-Este pacote contém os arquivos básicos para iniciar as vídeo aulas
-de React do [Canal V++](https://youtube.com/user/VPlusPlus).
+# Front-End Cadastro de Produto
+View do formulario Cadastro de Produto, consume a api feita com spring boot e renderiza todos os componentes
+
+Instalar Dependencias
+
+npm install
+
+sudo npm install -g webpack
